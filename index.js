@@ -11,6 +11,8 @@ function happyHolidaysTo (name) {
 var name = "Ping"
 console.log(happyHolidaysTo(name))
 
+
+
 function happyHolidayTo (holiday, name) {
   console.log(`Happy ${holiday}, ${name}!`)
 }
