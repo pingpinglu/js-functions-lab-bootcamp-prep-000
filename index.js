@@ -34,6 +34,6 @@ function holidayCountdown() {
   return `It's ${days} days until ${holiday}!`
 }
 
-var days = 4 
-var holiday = 'Kenya'
+var days = 20 
+var holiday = 'Mother\'s Days'
 console.log(holidayCountdown)
