@@ -25,3 +25,11 @@ function happyHolidayTo (holiday, name) {
 var holiday = "birthday"
 var name = "James"
 console.log(happyHolidayTo)
+
+
+
+
+
+function holidayCountdown() {
+  
+}
