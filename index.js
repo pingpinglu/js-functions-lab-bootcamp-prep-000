@@ -24,4 +24,4 @@ function happyHolidayTo (holiday, name) {
 }
 var holiday = "birthday"
 var name = "James"
-happyHolidayTo("Birthday", "Jenny")
+console.log(happyHolidayTo)
