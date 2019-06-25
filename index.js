@@ -8,7 +8,8 @@ console.log(happyHolidays)
 function happyHolidaysTo (name) {
   console.log(`Happy holidays, ${name}!`)
 }
-var name = "Ping"
+name = "Ping"
+happyHolidaysTo(name)
 
 function happyHolidayTo (holiday, name) {
   console.log(`Happy ${holiday}, ${name}!`)
