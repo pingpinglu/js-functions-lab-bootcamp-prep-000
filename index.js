@@ -6,10 +6,10 @@ console.log(happyHolidays)
 
 
 function happyHolidaysTo (name) {
-  console.log(`Happy holidays, ${name}!`)
+  return `Happy holidays, ${name}!`
 }
-name = "Ping"
-happyHolidaysTo(name)
+var name = "Ping"
+console.log(happyHolidaysTo(name))
 
 function happyHolidayTo (holiday, name) {
   console.log(`Happy ${holiday}, ${name}!`)
